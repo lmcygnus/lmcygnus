@@ -1,16 +1,24 @@
-# 👋 Hi, I’m @lmcygnus
-- 👀 I’m interested in become a Full Stack Depelover
-- 🌱 I’m currently learning React
-<!---
-lmcygnus/lmcygnus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# ✨ Hola, soy **@lmcygnus**
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lmcygnus&show_icons=true&theme=midnight-purple&include_all_commits=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmcygnus&theme=midnight-purple" />
-</a>
+Desarrolladora **Android** enfocada en crear apps modernas con **Kotlin**, **Jetpack Compose**, arquitecturas limpias y buenas prácticas. Me gusta aprender, experimentar y mejorar la experiencia móvil desde todos los ángulos.
 
+---
+
+## 🚀 Sobre mí
+- 📱 Desarrolladora **Android**  
+- 🌱 Actualmente profundizando en **Jetpack Compose**, **Arquitectura**, **Hilt**, **Coroutines**  
+- 🧠 Interesada en rendimiento, diseño limpio y automatización  
+- 🔧 Me gusta escribir código simple, mantenible y claro
+
+---
+
+
+## 🛠️ Tecnologías y herramientas
+- **Kotlin**, **Jetpack Compose**, **ViewModel**, **StateFlow**
+- **Hilt**, **Coroutines**
+- **Android Studio**, **ADB**, **Gradle**
+- **Room**, **Retrofit**, **Jetpack Libraries**
+- **Git**, **Postman**
+
+---
 
